@@ -1,8 +1,8 @@
 #make a folder then download my shell script in it
 
-mkdir c:/Window1/shell_work
+mkdir C:/Window1/shell_work
 
-cd c:/Window1/shell_work
+cd C:/Window1/shell_work
 
 
 
